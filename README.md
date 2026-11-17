@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>JAMES SEDDON</h3>
+  <h1>JAMES SEDDON</h1>
 
   <p>Full-stack creator. End-to-end design, engineering and systems for founders who need more.</p>
 
