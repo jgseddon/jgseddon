@@ -1,12 +1,5 @@
 <div align="center">
-  <a href="https://rockstarsunlimited.co">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/rsu-star-white.svg">
-      <img src="assets/rsu-star.svg" width="80" height="80" alt="Rock Stars Unlimited">
-    </picture>
-  </a>
-
-  <h1>JAMES SEDDON</h1>
+  <h3>JAMES SEDDON</h3>
 
   <p>Full-stack creator. End-to-end design, engineering and systems for founders who need more.</p>
 
