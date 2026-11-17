@@ -19,8 +19,6 @@
 
 ## WHAT I'VE BUILT
 
-Four products I make with [Rock Stars Unlimited](https://rockstarsunlimited.co), plus the ones I could not leave alone.
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -116,8 +114,6 @@ Past clients include the American Red Cross, British Red Cross and University of
 Founder with an ambitious idea who needs someone to own it end to end? Let's talk.
 
 <p>
-  <a href="mailto:js@rockstarsunlimited.co"><strong>js@rockstarsunlimited.co</strong></a>
-  &nbsp;·&nbsp;
   <a href="https://x.com/jgseddon"><strong>X / @jgseddon</strong></a>
   &nbsp;·&nbsp;
   <a href="https://rockstarsunlimited.co"><strong>Rock Stars Unlimited</strong></a>
